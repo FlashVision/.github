@@ -21,9 +21,11 @@
 | | Repository | What it does |
 |---|---|---|
 | ⚡ | **[FlashDet](https://github.com/FlashVision/FlashDet)** | Object detection — 0.49M–2.44M params, 100+ FPS, LoRA, tracking, analytics |
+| 🎨 | **[FlashSeg](https://github.com/FlashVision/FlashSeg)** | Semantic segmentation — 0.3M–3.2M params, real-time, background removal, lane detection |
 
 ---
 
 ```bash
 pip install flashdet
+pip install flashseg
 ```
