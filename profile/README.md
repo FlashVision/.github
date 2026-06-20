@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/FlashVision" target="_blank">
-      <img width="180" src="https://raw.githubusercontent.com/FlashVision/.github/main/assets/logo.svg" alt="FlashVision">
+      <img width="180" src="https://raw.githubusercontent.com/FlashVision/.github/main/assets/logo.png" alt="FlashVision">
     </a>
   </p>
 
